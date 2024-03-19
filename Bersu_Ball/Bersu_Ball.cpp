@@ -27,10 +27,11 @@ void solve()
     ll n, m;
     cin>>n;
 
-    if(n<=0 or m<=0) {cout(0); return;}
+    if(n<=0) {cout(0); return;}
     vec(ll,x)(n);
     forl(i,0,n) cin>>x[i];
     cin>>m;
+    if(m<=0) {cout(0); return;}
     vec(ll,y)(m);
     forl(i,0,m) cin>>y[i];
 
