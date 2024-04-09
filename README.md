@@ -9,7 +9,8 @@
 5. [**Bersu Ball - Dynamic Programming**](https://github.com/akash-dewangan03/OATCP/tree/main/Bersu_Ball) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Bersu_Ball" style="color: purple;"></a>
 6. [**Maximum Ice Bars - Greedy Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Maximum_Ice_Bars) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Maximum_Ice_Bars" style="color: brown;"></a>
 7. [**Largest Number - Greedy Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Largest_Numbers) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Largest_Numbers" style="color: teal;"></a>
-
+8. [**Minimum Integer - Greedy Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Minimum_Integer) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Minimum_Integer" style="color: blue;"></a>
+9. [**Patching Array - Greedy Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Patching_Array) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Patching_Array" style="color: teal;"></a>
 
 
 
