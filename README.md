@@ -13,5 +13,6 @@
 9. [**Patching Array - Greedy Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Patching_Array) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Patching_Array" style="color: teal;"></a>
 10. [**Minimum Hamming - Bit Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Minimum_Hamming) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Minimum_Hamming" style="color: blue;"></a>
 11. [**Counting Subgrids - Bit Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Counting_Subgrids) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Counting_Subgrids" style="color: teal;"></a>
+12. [**Finding Maximum Flow - Graph Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Finding_Maximal_Flow) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Finding_Maximal_Flow" style="color: teal;"></a>
 
 
