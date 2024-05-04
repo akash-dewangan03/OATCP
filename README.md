@@ -14,5 +14,6 @@
 10. [**Minimum Hamming - Bit Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Minimum_Hamming) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Minimum_Hamming" style="color: blue;"></a>
 11. [**Counting Subgrids - Bit Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Counting_Subgrids) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Counting_Subgrids" style="color: teal;"></a>
 12. [**Finding Maximum Flow - Graph Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Finding_Maximal_Flow) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Finding_Maximal_Flow" style="color: teal;"></a>
-
+14. [**Valid Arrangment of Pairs - Graph Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Valid_Arrangment_Pairs) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Valid_Arrangment_Pairs" style="color: teal;"></a>
+15. [**Brief Words - Graph Algorithms**](https://github.com/akash-dewangan03/OATCP/tree/main/Brief_Words) <a href="https://github.com/akash-dewangan03/OATCP/tree/main/Brief_Words" style="color: teal;"></a>
 
